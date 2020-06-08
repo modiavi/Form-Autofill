@@ -5,7 +5,7 @@ setTimeout(step2, 2000);
 //Step 2
 function step2(){
     var myname = document.getElementById('QR~QID2');
-    myname.value = 'Avi Modi';
+    myname.value = 'your name';
     var pagebutton = document.getElementById('NextButton');
     pagebutton.click();
     setTimeout(step3, 2000);
@@ -15,7 +15,7 @@ function step2(){
 //Step 3
 function step3(){
     var myname = document.getElementById('QR~QID3');
-    myname.value = 'Michael Brattman';
+    myname.value = 'your manager name';
     var pagebutton = document.getElementById('NextButton');
     pagebutton.click();
     setTimeout(step4, 2000);  
