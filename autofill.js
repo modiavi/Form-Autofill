@@ -1,8 +1,8 @@
-//Step 1
+
 var pagebutton = document.getElementById('NextButton');
 pagebutton.click();
 setTimeout(step2, 2000);
-//Step 2
+
 function step2(){
     var myname = document.getElementById('QR~QID2');
     myname.value = 'your name';
@@ -11,8 +11,6 @@ function step2(){
     setTimeout(step3, 2000);
 }
 
-
-//Step 3
 function step3(){
     var myname = document.getElementById('QR~QID3');
     myname.value = 'your manager name';
@@ -21,7 +19,6 @@ function step3(){
     setTimeout(step4, 2000);  
 }
 
-//Step 4
 function step4(){
     document.getElementById('QR~QID4~7').checked = true;
     var pagebutton = document.getElementById('NextButton');
@@ -29,7 +26,6 @@ function step4(){
     setTimeout(step5, 2000);
 }
 
-//Step 5
 function step5() {
   document.getElementById('QR~QID5~2').checked = true;
   var pagebutton = document.getElementById('NextButton');
