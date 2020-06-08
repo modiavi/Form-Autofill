@@ -9,4 +9,5 @@
 5. Copy paste the code on https://github.com/modiavi/Form-Autofill/blob/master/autofill.js
 6. Please **modify** the code on **line # 8**( myname.value = 'your name') and **line # 16**(myname.value = 'your manager name') with your actual name and your managers actual name respectively
 7. Finally click on run button at the bottom of the snippet window
-![Screenshot for step2,3,4](/github_autofill.png)
+8. Below is the screenshot with all the tabs and buttons highlighted
+![Sample Screen](/github_autofill.png)
