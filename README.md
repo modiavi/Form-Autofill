@@ -1,8 +1,8 @@
 # Form-Autofill
 
 1. Open Devleoper Tools on Google Chrome
-  - Go to the settings menu on far right
-    -Hover over more tools and select Developer tools
+    - Go to the settings menu on far right
+    - Hover over more tools and select Developer tools
 2. Select Sources from the top menu
 3. Inside sources select Snippets tab
 4. Click on New snippet
